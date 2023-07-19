@@ -1,4 +1,4 @@
-# KNN-algorithm
+# NN-algorithm
 In this assignment, I create a neural network in Python Language with hand coded backpropagation algorithm.
 
 Neural network use ReLU activation in hidden layers and Softmax in the output layer. 
